@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Show">
+    <output-path>$PROJECT_DIR$/out/artifacts/Show</output-path>
+    <root id="archive" name="Show.jar">
+      <element id="module-output" name="CarSimData" />
+    </root>
+  </artifact>
+</component>
